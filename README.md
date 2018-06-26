@@ -1,1 +1,0 @@
-# fulstack_projects
